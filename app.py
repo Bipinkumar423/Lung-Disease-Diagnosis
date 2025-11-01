@@ -1,4 +1,4 @@
-# fast api application for x-ray image classification
+# Fast Api application for x-ray image classification 
 
 import torch
 from xray.ml.model.arch import Net  # Ensure this path is correct
